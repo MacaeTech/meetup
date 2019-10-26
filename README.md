@@ -1,6 +1,6 @@
 ![alt text](https://raw.githubusercontent.com/MacaeTech/meetup/master/img/slides-header.png)
 
-Repositório destinado a armazenar os slides utilizados nas palestras do Macaé Tech Meetup. Para maiores informações sobre o nosso meetup, acesse nosso site: https://www.macae.tech
+> Repositório destinado a armazenar os slides utilizados nas palestras do Macaé Tech Meetup. Para maiores informações sobre o nosso meetup, acesse nosso site: https://www.macae.tech
 
 ### Meetup #2 - 10/10/2019
 
