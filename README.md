@@ -2,6 +2,14 @@
 
 > Repositório destinado a armazenar os slides utilizados nas palestras do Macaé Tech Meetup. Para maiores informações sobre o nosso meetup, acesse nosso site: https://www.macae.tech
 
+### Meetup #3 - 07/11/2019
+
+Palestrante             | Título | Slides | Código Fonte
+----------------------- | ------ | ------ |-------------
+Carlos Bazílio             | Seja Fit, Programe Funcionalmente! | Em Breve | Em Breve
+Phelipe Perboires      | Testes Automatizados: Usando código para testar código | Em Breve | Em Breve
+
+
 ### Meetup #2 - 10/10/2019
 
 Palestrante             | Título | Slides | Código Fonte
