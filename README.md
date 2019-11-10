@@ -7,7 +7,7 @@
 Palestrante             | Título | Slides | Código Fonte
 ----------------------- | ------ | ------ |-------------
 Carlos Bazílio             | Seja Fit, Programe Funcionalmente! | Em Breve | Em Breve
-Phelipe Perboires      | Testes Automatizados: Usando código para testar código | Em Breve | Em Breve
+Phelipe Perboires      | Testes Automatizados: Usando código para testar código | [Baixar](https://github.com/MacaeTech/meetup/blob/master/Meetup%20%233%20%20-%20%5B07-11-2019%5D/Testes%20Automatizados.pdf) | [Repositório](https://github.com/MacaeTech/macae-tech-meetup-testes-automatizados-sample)
 
 
 ### Meetup #2 - 10/10/2019
